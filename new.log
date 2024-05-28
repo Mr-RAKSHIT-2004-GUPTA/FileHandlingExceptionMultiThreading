@@ -1,0 +1,12 @@
+2024-05-26 11:48:40,943 - this is debug msg
+2024-05-26 11:48:40,944 - this is info msg
+2024-05-26 11:48:40,945 - this is critical msg
+2024-05-26 11:49:04,889 - this is debug msg
+2024-05-26 11:49:04,890 - this is info msg
+2024-05-26 11:49:04,891 - this is critical msg
+2024-05-26 13:04:11,432 - No such comm target registered: jupyter.widget.control
+2024-05-26 13:04:11,436 - No such comm: 392d53b2-85f6-49a4-a522-4e48669df57e
+2024-05-26 13:04:11,436 - Current comms: []
+2024-05-26 15:37:07,885 - No such comm target registered: jupyter.widget.control
+2024-05-26 15:37:07,885 - No such comm: b692a963-1ea3-4e25-aba6-aa916fc3b0cd
+2024-05-26 15:37:07,885 - Current comms: []

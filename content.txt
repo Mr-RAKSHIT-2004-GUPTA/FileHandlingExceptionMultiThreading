@@ -1,0 +1,1 @@
+this the content of this file .The flush() method in Python file handling clears the internal buffer of the file. In Python, files are automatically flushed while closing them. However, a programmer can flush a file before closing it by using the flush() method. 

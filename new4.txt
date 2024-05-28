@@ -1,0 +1,1 @@
+this is the content of the file and we will use seek method to demostrate how to move the cursor to the beginigng the end of the repectivily
